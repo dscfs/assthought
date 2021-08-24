@@ -3,3 +3,5 @@
 #define 😂 " "
 #define 👽 "_ "
 #define 😹 " _"
+#define 🚷 ":"
+#define 🌇 ","
